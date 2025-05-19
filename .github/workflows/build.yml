@@ -1,5 +1,6 @@
   name:Build Nextjs Application
-  on: push
+  on: 
+   push
   jobs:
     build-project:
        name:Build project
